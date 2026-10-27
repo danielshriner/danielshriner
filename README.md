@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Daniel Shriner 👋
 
-<!--
-**danielshriner/danielshriner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a record mixer and tracking engineer working primarily in Pro Tools.
 
-Here are some ideas to get you started:
+## What I do
+- Mixing records
+- Working closely with independent artists to bring their vision to life
+- Tracking and recording sessions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Pro Tools
+- Melodyne
+- Ozone Advanced
+
+## Currently
+Exploring new audio tools helping make more efficient workflows.
+
+## Get in touch
+hello.dshriner@gmail.com
